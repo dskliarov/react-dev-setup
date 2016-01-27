@@ -49,7 +49,7 @@
     "eslint-plugin-react": "3.10.0",
     "file-loader": "0.8.5",
     "ghooks": "1.0.0",
-    "mocha": "2.3.3",
+    "mocha": "2.4.4",
     "node-sass": "3.4.2",
     "parallelshell": "2.0.0",
     "postcss-loader": "0.8.0",
