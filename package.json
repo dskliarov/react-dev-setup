@@ -37,7 +37,7 @@
     "babel-plugin-react-display-name": "2.0.0",
     "babel-plugin-react-transform": "1.1.1",
     "browser-sync": "2.10.0",
-    "chai": "3.3.0",
+    "chai": "3.5.0",
     "cheerio": "0.19.0",
     "colors": "1.1.2",
     "commitizen": "2.4.4",
